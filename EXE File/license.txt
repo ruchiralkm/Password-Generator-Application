@@ -1,0 +1,28 @@
+!----- Designed By Ruchira Kaluarachchi -----!
+
+
+*This Application is one of my project.
+
+*Totally free to access.
+
+*The is an open-source password generator software and designed to enhance digital security by creating strong and unique passwords.
+
+
+----- How to run -----
+
+*Go to the bin folder
+
+*Open the Password Generator.exe and enjoy.
+
+
+
+
+
+
+
+If you want know other informations, Please go to = https://ruchiralk.000webhostapp.com/
+
+
+
+
+!---------------------------------- Thank You ------------------------------------------!
